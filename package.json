@@ -1,0 +1,15 @@
+{
+  "name": "express-echo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Simple express server to echo response",
+  "author": "Cameron Moreau",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ngrok": "^4.2.2"
+  }
+}
